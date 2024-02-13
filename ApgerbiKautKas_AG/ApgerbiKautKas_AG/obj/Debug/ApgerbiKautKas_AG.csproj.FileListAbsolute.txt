@@ -1,0 +1,10 @@
+Z:\Datorika 10.g\Visual Jaunais\Krekli\ApgerbiKautKas_AG\ApgerbiKautKas_AG\bin\Debug\ApgerbiKautKas_AG.exe.config
+Z:\Datorika 10.g\Visual Jaunais\Krekli\ApgerbiKautKas_AG\ApgerbiKautKas_AG\bin\Debug\ApgerbiKautKas_AG.exe
+Z:\Datorika 10.g\Visual Jaunais\Krekli\ApgerbiKautKas_AG\ApgerbiKautKas_AG\bin\Debug\ApgerbiKautKas_AG.pdb
+Z:\Datorika 10.g\Visual Jaunais\Krekli\ApgerbiKautKas_AG\ApgerbiKautKas_AG\obj\Debug\ApgerbiKautKas_AG.csprojAssemblyReference.cache
+Z:\Datorika 10.g\Visual Jaunais\Krekli\ApgerbiKautKas_AG\ApgerbiKautKas_AG\obj\Debug\ApgerbiKautKas_AG.Form1.resources
+Z:\Datorika 10.g\Visual Jaunais\Krekli\ApgerbiKautKas_AG\ApgerbiKautKas_AG\obj\Debug\ApgerbiKautKas_AG.Properties.Resources.resources
+Z:\Datorika 10.g\Visual Jaunais\Krekli\ApgerbiKautKas_AG\ApgerbiKautKas_AG\obj\Debug\ApgerbiKautKas_AG.csproj.GenerateResource.cache
+Z:\Datorika 10.g\Visual Jaunais\Krekli\ApgerbiKautKas_AG\ApgerbiKautKas_AG\obj\Debug\ApgerbiKautKas_AG.csproj.CoreCompileInputs.cache
+Z:\Datorika 10.g\Visual Jaunais\Krekli\ApgerbiKautKas_AG\ApgerbiKautKas_AG\obj\Debug\ApgerbiKautKas_AG.exe
+Z:\Datorika 10.g\Visual Jaunais\Krekli\ApgerbiKautKas_AG\ApgerbiKautKas_AG\obj\Debug\ApgerbiKautKas_AG.pdb
